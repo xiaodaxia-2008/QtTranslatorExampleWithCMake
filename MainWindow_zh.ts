@@ -33,15 +33,5 @@
         <source>Language</source>
         <translation type="unfinished">语言</translation>
     </message>
-    <message>
-        <location filename="MainWindow.ui" line="84"/>
-        <source>Chinese</source>
-        <translation type="unfinished">汉语</translation>
-    </message>
-    <message>
-        <location filename="MainWindow.ui" line="89"/>
-        <source>English</source>
-        <translation type="unfinished">英语</translation>
-    </message>
 </context>
 </TS>

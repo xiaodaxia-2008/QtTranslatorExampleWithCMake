@@ -35,7 +35,7 @@
     </message>
     <message>
         <location filename="MainWindow.ui" line="84"/>
-        <source>Chinese</source>
+        <source>中文简体</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
